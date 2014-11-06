@@ -1,6 +1,5 @@
-
-=====
 Network report
+=====
 In this report I will be discussing and demonstrating how I used the software Gephi to create a multimodal network graph of my Facebook friends. 
 First of all to begin I searched for netvizz on Facebook which gathered my network data and relationship of Facebook friends. Netvizz is a Facebook app that lets you to make a .gdf file out of your friends on Facebook. I downloaded this and saved the file to my laptop. From there I loaded this .gdf file onto Gephi. At first what appeared was a grey square with circles. I then picked the layout which was force atlas. From there what was visible was lines and circles.  Here’s a simple key guide to understanding these graphs:
 •	Circle or round ball = Node = Facebook friend or group member
